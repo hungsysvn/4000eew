@@ -8,5 +8,15 @@
 }
 
 .highlight {
-  color: black;
+  color: red;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+#captions {
+  background-color: black;
+  color: white;
 }

@@ -24,10 +24,10 @@ function updateLyrics() {
   );
   if (currentLine) {
     lyrics.textContent = currentLine.text;
-    lyrics.classList.add("highlight");
+    //lyrics.classList.add("highlight");
   } else {
     lyrics.textContent = "";
-    lyrics.classList.remove("highlight");
+    //lyrics.classList.remove("highlight");
   }
   requestAnimationFrame(updateLyrics);
 }
