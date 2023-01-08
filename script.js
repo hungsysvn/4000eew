@@ -36,11 +36,6 @@ document.addEventListener("click", startAudio);
 
 const script = [
   {
-    start: 0,
-    end: 2,
-    text: "[Music]",
-  },
-  {
     start: 2,
     end: 8,
     text: "[Music] the amalfi coast",
@@ -1632,7 +1627,1997 @@ const script = [
   },
   {
     start: 2019,
-    end: 2029,
+    end: 2027,
     text: "after school sarah did not make a direct trip home on the way she went to the local store",
+  },
+  {
+    start: 2027,
+    end: 2032,
+    text: "she wanted to play more tricks on people she made problems",
+  },
+  {
+    start: 2032,
+    end: 2038,
+    text: "she made people fall down she laughed and had fun",
+  },
+  {
+    start: 2038,
+    end: 2044,
+    text: "finally she left and started to walk home then she saw something",
+  },
+  {
+    start: 2044,
+    end: 2051,
+    text: "her basketball coach was about to walk in front of a bus he was looking the other way",
+  },
+  {
+    start: 2051,
+    end: 2057,
+    text: "she had to stop him she used her power she controlled him",
+  },
+  {
+    start: 2057,
+    end: 2063,
+    text: "she made him stop walking sarah learned something that day",
+  },
+  {
+    start: 2063,
+    end: 2070,
+    text: "it was better to help people than make them suffer so she put a limit on how she used her",
+  },
+  {
+    start: 2070,
+    end: 2078,
+    text: "power she did not want to do bad things with it anymore she only wanted to do good",
+  },
+  {
+    start: 2078,
+    end: 2086,
+    text: "[Music] the big race a dog saw a group of animals cross the",
+  },
+  {
+    start: 2086,
+    end: 2092,
+    text: "road he walked over to meet them what are you doing",
+  },
+  {
+    start: 2092,
+    end: 2098,
+    text: "he asked them i just sold them tickets to a race between the rabbit and the turtle",
+  },
+  {
+    start: 2098,
+    end: 2104,
+    text: "the duck responded the dog was extremely excited",
+  },
+  {
+    start: 2104,
+    end: 2110,
+    text: "he felt fortunate that he happened to be there i don't have anything to do today the",
+  },
+  {
+    start: 2110,
+    end: 2117,
+    text: "dog said i want to buy a ticket too the dog sat down to observe the race",
+  },
+  {
+    start: 2117,
+    end: 2122,
+    text: "it would be many kilometers in length the rabbit and the turtle stood next to",
+  },
+  {
+    start: 2122,
+    end: 2129,
+    text: "each other they waited for the race to start the dog wondered why the turtle agreed",
+  },
+  {
+    start: 2129,
+    end: 2135,
+    text: "to run against the rabbit being fast was not a characteristic of",
+  },
+  {
+    start: 2135,
+    end: 2140,
+    text: "turtles the rabbit was going to win easily",
+  },
+  {
+    start: 2140,
+    end: 2146,
+    text: "suddenly the race began the rabbit ran extremely quickly",
+  },
+  {
+    start: 2146,
+    end: 2152,
+    text: "the turtle walked slowly after a minute the rabbit looked back",
+  },
+  {
+    start: 2152,
+    end: 2158,
+    text: "he saw that the turtle was far behind him and was breathing quickly because he",
+  },
+  {
+    start: 2158,
+    end: 2166,
+    text: "was so tired the rabbit smiled and slowed down to a walk",
+  },
+  {
+    start: 2166,
+    end: 2171,
+    text: "a minute later the rabbit said i'm winning so i'll take a rest",
+  },
+  {
+    start: 2171,
+    end: 2178,
+    text: "he sat and began to consume some grass then he let his eyes close",
+  },
+  {
+    start: 2178,
+    end: 2184,
+    text: "he wasn't the winner yet but there was no risk of him losing the race",
+  },
+  {
+    start: 2184,
+    end: 2191,
+    text: "he went to sleep hours later a loud sound woke him",
+  },
+  {
+    start: 2191,
+    end: 2196,
+    text: "all of the animals were talking loudly and looking at the field",
+  },
+  {
+    start: 2196,
+    end: 2202,
+    text: "he felt fear for the first time the turtle was almost at the finish line",
+  },
+  {
+    start: 2202,
+    end: 2208,
+    text: "now the rabbit realized his mistake but the race was over",
+  },
+  {
+    start: 2208,
+    end: 2214,
+    text: "he gave the turtle an opportunity to win and the turtle took it",
+  },
+  {
+    start: 2214,
+    end: 2220,
+    text: "the duck handed the turtle his prize it was the happiest day of the turtle's",
+  },
+  {
+    start: 2220,
+    end: 2225,
+    text: "life the dog was happy for the turtle",
+  },
+  {
+    start: 2225,
+    end: 2231,
+    text: "he isn't fast the dog thought but he tried his best and did something",
+  },
+  {
+    start: 2231,
+    end: 2236,
+    text: "great [Music]",
+  },
+  {
+    start: 2236,
+    end: 2242,
+    text: "kwanzaa kwanzaa is a seven day holiday",
+  },
+  {
+    start: 2242,
+    end: 2248,
+    text: "celebrated in the united states and other countries by people of african descent",
+  },
+  {
+    start: 2248,
+    end: 2253,
+    text: "it is celebrated from december 26th to january first each year",
+  },
+  {
+    start: 2253,
+    end: 2259,
+    text: "the celebration is dedicated to honoring african culture and working together as",
+  },
+  {
+    start: 2259,
+    end: 2264,
+    text: "a community kwanzaa was created in 1966",
+  },
+  {
+    start: 2264,
+    end: 2272,
+    text: "by mualana karing karang was an african studies professor at california state university",
+  },
+  {
+    start: 2272,
+    end: 2278,
+    text: "according to him kwanzaa comes from the swahili language and means first fruit",
+  },
+  {
+    start: 2278,
+    end: 2284,
+    text: "karang wanted to create a holiday for african americans as a way for them to",
+  },
+  {
+    start: 2284,
+    end: 2289,
+    text: "reconnect with their heritage the colors of kwanzaa are black red and",
+  },
+  {
+    start: 2289,
+    end: 2297,
+    text: "green these colors are seen in decorations such as african pieces of art baskets",
+  },
+  {
+    start: 2297,
+    end: 2304,
+    text: "and cloth millions of african americans wear african clothes during kwanzaa and",
+  },
+  {
+    start: 2304,
+    end: 2310,
+    text: "decorate their homes with fruit and vegetables each day a family will celebrate one of",
+  },
+  {
+    start: 2310,
+    end: 2318,
+    text: "seven different principles of their african heritage such as unity faith and community",
+  },
+  {
+    start: 2318,
+    end: 2324,
+    text: "then they light a candle the candles are put on a candle holder called a kinara",
+  },
+  {
+    start: 2324,
+    end: 2330,
+    text: "the middle candle is black the three candles on one side of the kinara are red",
+  },
+  {
+    start: 2330,
+    end: 2336,
+    text: "and the other three candles are green on the sixth day of kwanzaa",
+  },
+  {
+    start: 2336,
+    end: 2342,
+    text: "families remember their ancestors and get together for a big dinner called a",
+  },
+  {
+    start: 2342,
+    end: 2350,
+    text: "caramel traditional african-american dishes which include chicken fish rice beans",
+  },
+  {
+    start: 2350,
+    end: 2355,
+    text: "peas sweet potatoes and other vegetables are served",
+  },
+  {
+    start: 2355,
+    end: 2360,
+    text: "like christmas there are gifts which are exchanged on the seventh day",
+  },
+  {
+    start: 2360,
+    end: 2368,
+    text: "books are always included because they symbolize the importance of learning about history and tradition",
+  },
+  {
+    start: 2368,
+    end: 2373,
+    text: "kwanzaa is a way of celebrating the end of the year by honoring african culture",
+  },
+  {
+    start: 2373,
+    end: 2382,
+    text: "and traditions and to start the new year with family members as well as the community",
+  },
+  {
+    start: 2382,
+    end: 2387,
+    text: "[Music] the race for water",
+  },
+  {
+    start: 2387,
+    end: 2393,
+    text: "there was a town next to a river the people there had a lot of water",
+  },
+  {
+    start: 2393,
+    end: 2399,
+    text: "but they wasted it that made the sky angry it said",
+  },
+  {
+    start: 2399,
+    end: 2406,
+    text: "if you waste water i will take it away from you but the people didn't listen",
+  },
+  {
+    start: 2406,
+    end: 2412,
+    text: "when the season changed from spring to summer the clouds disappeared",
+  },
+  {
+    start: 2412,
+    end: 2419,
+    text: "the bright sun was hot and made the river dry there was no water available",
+  },
+  {
+    start: 2419,
+    end: 2427,
+    text: "people asked when will the rain fall the sky's response was",
+  },
+  {
+    start: 2427,
+    end: 2434,
+    text: "you don't appreciate water you waste it and now i will never make rain again",
+  },
+  {
+    start: 2434,
+    end: 2440,
+    text: "a boy decided that this wasn't fair he thought of a solution",
+  },
+  {
+    start: 2440,
+    end: 2447,
+    text: "he asked the sky to race him he said if i get to the top of that hill before",
+  },
+  {
+    start: 2447,
+    end: 2453,
+    text: "your rain can form puddles you must fill our the sky laughed",
+  },
+  {
+    start: 2453,
+    end: 2460,
+    text: "little boy i am the sky i am above everything else you cannot beat me",
+  },
+  {
+    start: 2460,
+    end: 2468,
+    text: "but the boy knew he would win when the race began the boy ran forward",
+  },
+  {
+    start: 2468,
+    end: 2473,
+    text: "the sky started raining on the hill but puddles did not form there",
+  },
+  {
+    start: 2473,
+    end: 2481,
+    text: "when it rained on the hill the water went down the sky kept raining the water flowed",
+  },
+  {
+    start: 2481,
+    end: 2488,
+    text: "down into the river when the boy reached the top of the hill the river was full",
+  },
+  {
+    start: 2488,
+    end: 2493,
+    text: "the people began to celebrate it was the highest level the river had",
+  },
+  {
+    start: 2493,
+    end: 2498,
+    text: "ever been at before the sky was angry",
+  },
+  {
+    start: 2498,
+    end: 2505,
+    text: "a boy can't beat me i won't fill your river it said",
+  },
+  {
+    start: 2505,
+    end: 2511,
+    text: "now the boy laughed it doesn't matter whether you want to fill it or not",
+  },
+  {
+    start: 2511,
+    end: 2517,
+    text: "he said you already did the sky looked at the full river",
+  },
+  {
+    start: 2517,
+    end: 2523,
+    text: "you tricked me it said it asked the people",
+  },
+  {
+    start: 2523,
+    end: 2528,
+    text: "do you appreciate water now yes they said",
+  },
+  {
+    start: 2528,
+    end: 2535,
+    text: "we won't waste it that is how a lone boy saved his town",
+  },
+  {
+    start: 2535,
+    end: 2541,
+    text: "and won the race for water [Music]",
+  },
+  {
+    start: 2541,
+    end: 2548,
+    text: "eat healthy it is important to eat healthy food",
+  },
+  {
+    start: 2548,
+    end: 2554,
+    text: "there are five main healthy food groups they are grains fruits vegetables",
+  },
+  {
+    start: 2554,
+    end: 2559,
+    text: "protein and dairy a food pyramid can show you how much of",
+  },
+  {
+    start: 2559,
+    end: 2566,
+    text: "each group you should eat many different kinds of food are necessary for a balanced diet",
+  },
+  {
+    start: 2566,
+    end: 2572,
+    text: "you need to eat grains such as rice wheat and several types of bread",
+  },
+  {
+    start: 2572,
+    end: 2578,
+    text: "fruits and vegetables are also important fruits such as bananas are good for you",
+  },
+  {
+    start: 2578,
+    end: 2584,
+    text: "others such as oranges and kiwis contain a lot of vitamin c",
+  },
+  {
+    start: 2584,
+    end: 2590,
+    text: "vegetables are an important part of a daily diet they are extremely healthy",
+  },
+  {
+    start: 2590,
+    end: 2596,
+    text: "and can be eaten in many ways salads with raw vegetables such as",
+  },
+  {
+    start: 2596,
+    end: 2602,
+    text: "spinach and carrots are common but you can also cook vegetables in many different ways",
+  },
+  {
+    start: 2602,
+    end: 2610,
+    text: "soups are another easy way to get vegetables into your diet protein is an important food group too",
+  },
+  {
+    start: 2610,
+    end: 2616,
+    text: "meats such as beef and chicken are well known forms of protein",
+  },
+  {
+    start: 2616,
+    end: 2622,
+    text: "tofu beans eggs and nuts also contain high amounts of protein",
+  },
+  {
+    start: 2622,
+    end: 2629,
+    text: "you should also eat dairy products such as cheese yogurt and milk as well",
+  },
+  {
+    start: 2629,
+    end: 2634,
+    text: "a healthy diet includes drinking lots of water instead of sugary drinks such as",
+  },
+  {
+    start: 2634,
+    end: 2640,
+    text: "soda and juice while sweets may not be considered healthy foods",
+  },
+  {
+    start: 2640,
+    end: 2646,
+    text: "they are fine if you don't eat too many chocolate and cake are well-loved sweets",
+  },
+  {
+    start: 2646,
+    end: 2652,
+    text: "commonly found at restaurants and grocery stores they are often served at special events",
+  },
+  {
+    start: 2652,
+    end: 2658,
+    text: "such as birthday parties and weddings at restaurants you can ask the waiters",
+  },
+  {
+    start: 2658,
+    end: 2666,
+    text: "to tell you which ingredients are included in different dishes at home you can always find healthy and",
+  },
+  {
+    start: 2666,
+    end: 2673,
+    text: "delicious recipes in cookbooks or on the internet eating healthy food is great for your",
+  },
+  {
+    start: 2673,
+    end: 2678,
+    text: "health [Music]",
+  },
+  {
+    start: 2678,
+    end: 2683,
+    text: "shipwrecked simon yates was a lawyer",
+  },
+  {
+    start: 2683,
+    end: 2689,
+    text: "he helped many people however he was not a nice man",
+  },
+  {
+    start: 2689,
+    end: 2696,
+    text: "his policy was to help only rich people he didn't bother about social injustice",
+  },
+  {
+    start: 2696,
+    end: 2705,
+    text: "he made a lot of money but many people didn't like him even people on his staff didn't like him",
+  },
+  {
+    start: 2705,
+    end: 2710,
+    text: "in fact they were glad when he got into trouble",
+  },
+  {
+    start: 2710,
+    end: 2716,
+    text: "simon had a very bad day he did many things wrong and lost his",
+  },
+  {
+    start: 2716,
+    end: 2724,
+    text: "job soon he didn't have any money his wife mrs yates began to have doubts",
+  },
+  {
+    start: 2724,
+    end: 2729,
+    text: "about him simon wanted to start a new life",
+  },
+  {
+    start: 2729,
+    end: 2735,
+    text: "he planned to leave the country he mentioned his plan to the captain of",
+  },
+  {
+    start: 2735,
+    end: 2743,
+    text: "a ship the captain was exploring the world the captain felt bad for simon and said",
+  },
+  {
+    start: 2743,
+    end: 2749,
+    text: "i will take you to foreign countries they left the next day",
+  },
+  {
+    start: 2749,
+    end: 2754,
+    text: "near the conclusion of their international trip the weather turned bad",
+  },
+  {
+    start: 2754,
+    end: 2759,
+    text: "a wave pushed simon off the boat but he was alive",
+  },
+  {
+    start: 2759,
+    end: 2765,
+    text: "he swam toward an island after a long time he got there",
+  },
+  {
+    start: 2765,
+    end: 2771,
+    text: "at first he was upset he was lost and alone",
+  },
+  {
+    start: 2771,
+    end: 2778,
+    text: "i'll never go home again he thought he had a lot of problems but he didn't",
+  },
+  {
+    start: 2778,
+    end: 2785,
+    text: "die he built a house in a tree he lived on a diet of fish",
+  },
+  {
+    start: 2785,
+    end: 2792,
+    text: "he made tools from wood and bones he made a cup to drink rain water",
+  },
+  {
+    start: 2792,
+    end: 2799,
+    text: "slowly he learned to be happy on the island he swam every day",
+  },
+  {
+    start: 2799,
+    end: 2805,
+    text: "he had trouble sometimes but he always found a way to fix the problem",
+  },
+  {
+    start: 2805,
+    end: 2811,
+    text: "life was simple he liked it finally",
+  },
+  {
+    start: 2811,
+    end: 2817,
+    text: "people on a ship saw simon on the island they wanted to take him home",
+  },
+  {
+    start: 2817,
+    end: 2822,
+    text: "but simon was happy he gave them a long speech about life",
+  },
+  {
+    start: 2822,
+    end: 2828,
+    text: "he said he wanted to stay he liked his new simple life",
+  },
+  {
+    start: 2828,
+    end: 2833,
+    text: "more than his old life [Music]",
+  },
+  {
+    start: 2833,
+    end: 2840,
+    text: "the seven cities of gold many years ago a spanish officer named",
+  },
+  {
+    start: 2840,
+    end: 2846,
+    text: "coronado heard the story of seven great cities the walls of these cities are made of",
+  },
+  {
+    start: 2846,
+    end: 2852,
+    text: "gold his friends told him the people eat meat from golden plates",
+  },
+  {
+    start: 2852,
+    end: 2858,
+    text: "and dress in nice clothes they said they called these cities the seven",
+  },
+  {
+    start: 2858,
+    end: 2863,
+    text: "cities of gold were the city's real coronado never considered asking his",
+  },
+  {
+    start: 2863,
+    end: 2870,
+    text: "friends coronado thought to himself the things in these cities must be worth",
+  },
+  {
+    start: 2870,
+    end: 2875,
+    text: "a lot of money so he went to find the seven cities of gold",
+  },
+  {
+    start: 2875,
+    end: 2880,
+    text: "he took along 300 men many horses and extra food",
+  },
+  {
+    start: 2880,
+    end: 2887,
+    text: "they headed west coronado wanted to achieve his goal very badly",
+  },
+  {
+    start: 2887,
+    end: 2894,
+    text: "coronado and his men rode for many days then they saw some cities",
+  },
+  {
+    start: 2894,
+    end: 2901,
+    text: "we found the seven cities of gold his men said but coronado wasn't happy",
+  },
+  {
+    start: 2901,
+    end: 2906,
+    text: "he had a different opinion these can't be the seven cities of gold",
+  },
+  {
+    start: 2906,
+    end: 2913,
+    text: "he said look they're made of dirt coronado was right the cities weren't",
+  },
+  {
+    start: 2913,
+    end: 2920,
+    text: "bright and golden they were dirty and brown the people didn't eat meat from golden",
+  },
+  {
+    start: 2920,
+    end: 2928,
+    text: "plates they ate vegetables from regular bowls they wore the most basic clothes",
+  },
+  {
+    start: 2928,
+    end: 2935,
+    text: "coronado regarded the cities as ugly places what happened to the cities of gold he",
+  },
+  {
+    start: 2935,
+    end: 2942,
+    text: "thought did someone destroy them was there a war did someone already come and take the",
+  },
+  {
+    start: 2942,
+    end: 2949,
+    text: "gold that night the people of the cities entertained coronado and his men",
+  },
+  {
+    start: 2949,
+    end: 2954,
+    text: "and served them food they advised coronado to go home",
+  },
+  {
+    start: 2954,
+    end: 2959,
+    text: "there is no gold here they told him coronado was angry",
+  },
+  {
+    start: 2959,
+    end: 2965,
+    text: "did his friends lie to him he left the next morning",
+  },
+  {
+    start: 2965,
+    end: 2970,
+    text: "he looked back at the cities one more time the sun reflected light on the dirt",
+  },
+  {
+    start: 2970,
+    end: 2978,
+    text: "houses coronado thought he saw a bit of gold were his friends right after all",
+  },
+  {
+    start: 2978,
+    end: 2988,
+    text: "no he told himself it's just the sun then he turned away and went home",
+  },
+  {
+    start: 2988,
+    end: 2994,
+    text: "katie i first met eight-year-old katie on a",
+  },
+  {
+    start: 2994,
+    end: 3000,
+    text: "rainy afternoon i was a nurse at a hospital the clerk at the desk told me about",
+  },
+  {
+    start: 3000,
+    end: 3008,
+    text: "katie she was there because she felt a lot of pain the doctors located a problem at the",
+  },
+  {
+    start: 3008,
+    end: 3014,
+    text: "base of her brain i knew she was special even before she got better",
+  },
+  {
+    start: 3014,
+    end: 3021,
+    text: "i'll always remember katie as a hero when i entered katie's room she was not",
+  },
+  {
+    start: 3021,
+    end: 3027,
+    text: "in her bed she was in a chair next to tommy a little boy",
+  },
+  {
+    start: 3027,
+    end: 3032,
+    text: "though katie did not feel well she was playing with tommy and his toys",
+  },
+  {
+    start: 3032,
+    end: 3040,
+    text: "it took a lot of effort for her just to sit in the chair but she played with tommy because it",
+  },
+  {
+    start: 3040,
+    end: 3047,
+    text: "made him happy katie was always smiling and never appeared to be in pain",
+  },
+  {
+    start: 3047,
+    end: 3054,
+    text: "she refused to just lie in bed one day i found her painting a picture",
+  },
+  {
+    start: 3054,
+    end: 3061,
+    text: "later she gave it to one of the older patients another day she went outside to get",
+  },
+  {
+    start: 3061,
+    end: 3066,
+    text: "flowers for another sick little girl katie made everyone",
+  },
+  {
+    start: 3066,
+    end: 3072,
+    text: "smile the doctors hurried to fix the problem in katie's brain",
+  },
+  {
+    start: 3072,
+    end: 3077,
+    text: "the operation was successful the doctors informed the hospital staff",
+  },
+  {
+    start: 3077,
+    end: 3083,
+    text: "of the good news katie was fine she soon felt excellent",
+  },
+  {
+    start: 3083,
+    end: 3089,
+    text: "she got better and was able to leave the hospital a month later",
+  },
+  {
+    start: 3089,
+    end: 3094,
+    text: "i have had a long career as a nurse i have met many patients",
+  },
+  {
+    start: 3094,
+    end: 3102,
+    text: "however i have never met another girl like katie even after she got well she still came",
+  },
+  {
+    start: 3102,
+    end: 3107,
+    text: "to the hospital she played various games with the young patients",
+  },
+  {
+    start: 3107,
+    end: 3114,
+    text: "she read many books to the older patients katie's kind heart helped her get better",
+  },
+  {
+    start: 3114,
+    end: 3122,
+    text: "so quickly she is a hero to me and everyone else at the hospital",
+  },
+  {
+    start: 3122,
+    end: 3128,
+    text: "[Music] a better reward",
+  },
+  {
+    start: 3128,
+    end: 3133,
+    text: "jenny delivered food for a restaurant she read the newspaper and said",
+  },
+  {
+    start: 3133,
+    end: 3141,
+    text: "uh-oh there was a story about a thief he stole food and no one had seen him",
+  },
+  {
+    start: 3141,
+    end: 3146,
+    text: "even the police couldn't catch him jenny was a little scared",
+  },
+  {
+    start: 3146,
+    end: 3152,
+    text: "she worked close to that area the newspaper included a message from",
+  },
+  {
+    start: 3152,
+    end: 3157,
+    text: "the police if anything strange occurs call us",
+  },
+  {
+    start: 3157,
+    end: 3162,
+    text: "if you help us catch the thief you'll earn a reward",
+  },
+  {
+    start: 3162,
+    end: 3169,
+    text: "jenny talked to jim he managed the restaurant do you know about the thief",
+  },
+  {
+    start: 3169,
+    end: 3175,
+    text: "yes he said but he steals more than one person can eat",
+  },
+  {
+    start: 3175,
+    end: 3182,
+    text: "and why haven't the police stopped him yet it's a mystery if you see him contact",
+  },
+  {
+    start: 3182,
+    end: 3188,
+    text: "the police don't run after him jenny drove to a customer's house",
+  },
+  {
+    start: 3188,
+    end: 3195,
+    text: "she left her car and opened the gate to the house but then she heard a noise by her car",
+  },
+  {
+    start: 3195,
+    end: 3202,
+    text: "she said thief she wasn't scared she wanted the reward",
+  },
+  {
+    start: 3202,
+    end: 3207,
+    text: "she did the opposite of what jim told her to do hey",
+  },
+  {
+    start: 3207,
+    end: 3212,
+    text: "she said get back here she set the food on the ground and ran",
+  },
+  {
+    start: 3212,
+    end: 3217,
+    text: "to her car but the thief had already left with the food",
+  },
+  {
+    start: 3217,
+    end: 3225,
+    text: "jenny followed a noise around the corner she was amazed she saw a dog and some puppies",
+  },
+  {
+    start: 3225,
+    end: 3231,
+    text: "they were eating her food they looked thin and scared",
+  },
+  {
+    start: 3231,
+    end: 3236,
+    text: "the actual thief is just a dog she's feeding her puppies",
+  },
+  {
+    start: 3236,
+    end: 3241,
+    text: "she said that's why she steals so much food",
+  },
+  {
+    start: 3241,
+    end: 3247,
+    text: "jenny felt bad she tried to comfort the dogs with another plate of food",
+  },
+  {
+    start: 3247,
+    end: 3253,
+    text: "then she took them back to the store everyone there took a puppy home",
+  },
+  {
+    start: 3253,
+    end: 3259,
+    text: "jenny called the police she told them there was no real thief",
+  },
+  {
+    start: 3259,
+    end: 3265,
+    text: "jenny didn't do it to receive the reward anymore she said it was just a dog",
+  },
+  {
+    start: 3265,
+    end: 3275,
+    text: "but there's no charge for catching this thief she said my new dog is a better reward",
+  },
+  {
+    start: 3275,
+    end: 3283,
+    text: "[Music] the camp stacey wanted to stay at a nice hotel",
+  },
+  {
+    start: 3283,
+    end: 3289,
+    text: "for vacation but her parents sent her to a terrible camp instead",
+  },
+  {
+    start: 3289,
+    end: 3294,
+    text: "for breakfast stacy liked fresh juice and chocolate milk",
+  },
+  {
+    start: 3294,
+    end: 3299,
+    text: "but she got water at the camp in the afternoon she wanted to write",
+  },
+  {
+    start: 3299,
+    end: 3306,
+    text: "poems but she had to swim the camp was near an airport with loud",
+  },
+  {
+    start: 3306,
+    end: 3311,
+    text: "planes spider webs hung over her bed to her",
+  },
+  {
+    start: 3311,
+    end: 3318,
+    text: "the kid's average behavior was very bad no girl matched her personality",
+  },
+  {
+    start: 3318,
+    end: 3323,
+    text: "she hated it one day they had a class",
+  },
+  {
+    start: 3323,
+    end: 3330,
+    text: "mental exercise sounded good to stacy but it was a course on water safety",
+  },
+  {
+    start: 3330,
+    end: 3336,
+    text: "they learned how to be safe passengers on a boat stacey didn't ever plan to go",
+  },
+  {
+    start: 3336,
+    end: 3344,
+    text: "on a boat the next day they played a game there was a red team and a blue team",
+  },
+  {
+    start: 3344,
+    end: 3349,
+    text: "stacy was on the blue team each team had to try to remove the other",
+  },
+  {
+    start: 3349,
+    end: 3356,
+    text: "team's flag from a pole they also had to use water guns",
+  },
+  {
+    start: 3356,
+    end: 3362,
+    text: "i'm not much of an athlete she said but she still had to play",
+  },
+  {
+    start: 3362,
+    end: 3368,
+    text: "stacy took a water gun and looked for somewhere to hide a boy said",
+  },
+  {
+    start: 3368,
+    end: 3375,
+    text: "stacy you advance to the middle i will go right those two will go left",
+  },
+  {
+    start: 3375,
+    end: 3381,
+    text: "stacy still didn't want to play she walked into the forest and saw a red",
+  },
+  {
+    start: 3381,
+    end: 3387,
+    text: "team player coming stacy hid behind a tree and then jumped",
+  },
+  {
+    start: 3387,
+    end: 3393,
+    text: "out and shot the other player this is fun stacy thought",
+  },
+  {
+    start: 3393,
+    end: 3399,
+    text: "several minutes after moving further stacy saw the red flag",
+  },
+  {
+    start: 3399,
+    end: 3404,
+    text: "a red team member was watching over it she shot him with her water gun",
+  },
+  {
+    start: 3404,
+    end: 3410,
+    text: "then she lowered the flag and ran back to her team i got it",
+  },
+  {
+    start: 3410,
+    end: 3417,
+    text: "she said the blue team won stacy was the hero",
+  },
+  {
+    start: 3417,
+    end: 3426,
+    text: "for the rest of the week stacy had fun she even made new friends",
+  },
+  {
+    start: 3426,
+    end: 3431,
+    text: "[Music] a strong friendship",
+  },
+  {
+    start: 3431,
+    end: 3438,
+    text: "tim was the strongest man in the town when he played sports he always won",
+  },
+  {
+    start: 3438,
+    end: 3444,
+    text: "he performed and exercised in the public park he did this to show everyone how strong",
+  },
+  {
+    start: 3444,
+    end: 3450,
+    text: "he was most people liked him but one man didn't",
+  },
+  {
+    start: 3450,
+    end: 3455,
+    text: "his name was jack jack hated tim",
+  },
+  {
+    start: 3455,
+    end: 3463,
+    text: "jack was a movie critic and the smartest man in town he could solve complex math problems",
+  },
+  {
+    start: 3463,
+    end: 3469,
+    text: "but no one cared jack wanted to be famous like tim",
+  },
+  {
+    start: 3469,
+    end: 3476,
+    text: "one day there was an unusual event a big storm came suddenly",
+  },
+  {
+    start: 3476,
+    end: 3482,
+    text: "the town was buried in snow no one could get out they needed food",
+  },
+  {
+    start: 3482,
+    end: 3487,
+    text: "the people said this is a task for a strong man",
+  },
+  {
+    start: 3487,
+    end: 3493,
+    text: "tim was under pressure to save them but jack wanted to be a hero",
+  },
+  {
+    start: 3493,
+    end: 3499,
+    text: "so they both went tim said you can't help because of your lack of",
+  },
+  {
+    start: 3499,
+    end: 3504,
+    text: "strength but jack knew the local area very well",
+  },
+  {
+    start: 3504,
+    end: 3511,
+    text: "and could find paths that were usable despite the snow they led in the direction of another",
+  },
+  {
+    start: 3511,
+    end: 3516,
+    text: "town that town had food they walked until there was a block of",
+  },
+  {
+    start: 3516,
+    end: 3522,
+    text: "ice in their way jack said we can't get past it",
+  },
+  {
+    start: 3522,
+    end: 3529,
+    text: "but if you strike it it might break tim knew he probably had enough strength",
+  },
+  {
+    start: 3529,
+    end: 3536,
+    text: "so he struck it with a hammer it broke when there were more blocks of ice",
+  },
+  {
+    start: 3536,
+    end: 3542,
+    text: "tim broke them that made him tired he couldn't walk anymore",
+  },
+  {
+    start: 3542,
+    end: 3550,
+    text: "jack said let's unite and support each other i'll get the food alone you rest here",
+  },
+  {
+    start: 3550,
+    end: 3556,
+    text: "jack came back with food tim couldn't remember which path led home",
+  },
+  {
+    start: 3556,
+    end: 3561,
+    text: "he needed jack to be his guide the men became friends by working",
+  },
+  {
+    start: 3561,
+    end: 3566,
+    text: "together in town people saw jack with the food",
+  },
+  {
+    start: 3566,
+    end: 3572,
+    text: "and cheered they called jack a hero but jack didn't care",
+  },
+  {
+    start: 3572,
+    end: 3579,
+    text: "he was thinking of something else he said to tim i thought i was smart but i learned a",
+  },
+  {
+    start: 3579,
+    end: 3586,
+    text: "new term today friendship",
+  },
+  {
+    start: 3586,
+    end: 3591,
+    text: "[Music] joe's pond",
+  },
+  {
+    start: 3591,
+    end: 3598,
+    text: "joe made the world a better place he got the idea to do that at school",
+  },
+  {
+    start: 3598,
+    end: 60,
+    text: "he watched a video there it was about a factory this factory produced a lot of trash and",
+  },
+  {
+    start: 60,
+    end: 60,
+    text: "put it in a river the trash and water were a bad mix",
+  },
+  {
+    start: 60,
+    end: 60,
+    text: "people populated the area by the river and drank its water",
+  },
+  {
+    start: 60,
+    end: 60,
+    text: "this made them sick many of them needed medicine and made regular visits to doctors",
+  },
+  {
+    start: 60,
+    end: 60,
+    text: "but the video wasn't all bad news it showed ways to pick up trash and why",
+  },
+  {
+    start: 60,
+    end: 60,
+    text: "it's important to do this it said people can make a difference to their environment",
+  },
+  {
+    start: 60,
+    end: 60,
+    text: "the video's important features made joe associate trash with hurting people",
+  },
+  {
+    start: 60,
+    end: 60,
+    text: "one day joe walked through a park he recognized some of the problems from",
+  },
+  {
+    start: 60,
+    end: 60,
+    text: "the video one instance of these problems was the trash in the pond it was full of plastic",
+  },
+  {
+    start: 60,
+    end: 61,
+    text: "cups there was too much trash joe didn't want it to hurt anyone",
+  },
+  {
+    start: 61,
+    end: 61,
+    text: "he told his grandfather about the park his grandfather said you know it's a",
+  },
+  {
+    start: 61,
+    end: 61,
+    text: "tradition in our family to help people that's why we give food to poor people",
+  },
+  {
+    start: 61,
+    end: 61,
+    text: "maybe you can help people by cleaning the park",
+  },
+  {
+    start: 61,
+    end: 61,
+    text: "cleaning the park would involve hard work joe decided to organize a group to help",
+  },
+  {
+    start: 61,
+    end: 61,
+    text: "him he chose a wide area of the park it had the most trash",
+  },
+  {
+    start: 61,
+    end: 61,
+    text: "he asked his family and friends to come on saturday he gave everyone a sharp",
+  },
+  {
+    start: 61,
+    end: 61,
+    text: "stick they wondered why he said you use the stixx tip to pick up trash",
+  },
+  {
+    start: 61,
+    end: 61,
+    text: "this makes it easier they worked for six weeks",
+  },
+  {
+    start: 61,
+    end: 62,
+    text: "different people helped each time but joe was always there",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "in that period of time joe saw a range of results",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "there was no trash in the water people could swim in it",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "joe knew that was a good sign he was happy because he helped his",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "environment [Music]",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "archie and his donkey old archie needed some money",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "he decided to sell his donkey so he and his son tom went to town",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "it was situated many miles away soon they met a woman",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "where are you going she asked to town said archie",
+  },
+  {
+    start: 62,
+    end: 62,
+    text: "any smart person would ride the donkey she said what are you implying archie asked i'm",
+  },
+  {
+    start: 62,
+    end: 63,
+    text: "very smart archie wanted to look smart so he climbed onto the donkey",
+  },
+  {
+    start: 63,
+    end: 63,
+    text: "then they continued in the direction of the town further along the road they met a farmer",
+  },
+  {
+    start: 63,
+    end: 63,
+    text: "hello said archie we want to sell this donkey do you want to buy it",
+  },
+  {
+    start: 63,
+    end: 63,
+    text: "i don't need a donkey said the farmer but if you want my advice don't write it",
+  },
+  {
+    start: 63,
+    end: 63,
+    text: "the donkey needs to be in good physical condition idea said archie",
+  },
+  {
+    start: 63,
+    end: 63,
+    text: "tom i want you to write it your lighter neither you nor your son should ride it",
+  },
+  {
+    start: 63,
+    end: 63,
+    text: "it looks very tired you should carry the donkey suggested the farmer",
+  },
+  {
+    start: 63,
+    end: 63,
+    text: "you're right said archie come on tom we'll carry it for the final few miles",
+  },
+  {
+    start: 63,
+    end: 63,
+    text: "the donkey was very heavy and they couldn't maintain a good speed",
+  },
+  {
+    start: 63,
+    end: 64,
+    text: "they didn't arrive until late in the evening at last they walked into the town",
+  },
+  {
+    start: 64,
+    end: 64,
+    text: "but there they attracted the attention of some teenage boys they laughed at tom and archie",
+  },
+  {
+    start: 64,
+    end: 64,
+    text: "they started to throw stones at them the donkey reacted by kicking",
+  },
+  {
+    start: 64,
+    end: 64,
+    text: "tom and darchie dropped the donkey it fell on the ground and then ran away",
+  },
+  {
+    start: 64,
+    end: 64,
+    text: "archie lost his donkey he went home with no money",
+  },
+  {
+    start: 64,
+    end: 64,
+    text: "what does this story teach us we cannot please everyone in our society",
+  },
+  {
+    start: 64,
+    end: 64,
+    text: "don't take everyone's advice but set your own standards prove to everyone that you can make",
+  },
+  {
+    start: 64,
+    end: 64,
+    text: "decisions by yourself otherwise you may end up with nothing at",
+  },
+  {
+    start: 64,
+    end: 64,
+    text: "all [Music]",
+  },
+  {
+    start: 64,
+    end: 65,
+    text: "the spider and the bird there was once a very big spider",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "however if a bug got into his web he didn't eat it right away",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "he would carefully examine it he asked the bug a question first",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "it was always quite a difficult puzzle if the bug's answer was correct he let",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "it go if not he ate it one day a small bird on a journey flew",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "into the spider's wab the spider couldn't imagine eating a",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "bird it was so big but his hunger was too great",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "he said to the bird if you cannot give me a specific answer",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "i will eat you the bird laughed i could eat you",
+  },
+  {
+    start: 65,
+    end: 65,
+    text: "but the bird was actually scared she had used all her energy trying to",
+  },
+  {
+    start: 65,
+    end: 66,
+    text: "get out of the wab and a spider's bite can be very effective in killing animals",
+  },
+  {
+    start: 66,
+    end: 66,
+    text: "please don't eat me the bird said i would rather make a deal with you",
+  },
+  {
+    start: 66,
+    end: 66,
+    text: "okay the spider said if your answer is right i will let you",
+  },
+  {
+    start: 66,
+    end: 66,
+    text: "go if not you must give me a gift it must be something of great value",
+  },
+  {
+    start: 66,
+    end: 66,
+    text: "the bird said you can pick anything you want to eat i will find it for you",
+  },
+  {
+    start: 66,
+    end: 66,
+    text: "the spider agreed where can you take a trip to the coast",
+  },
+  {
+    start: 66,
+    end: 66,
+    text: "the desert and the mountains at the same time the spider asked",
+  },
+  {
+    start: 66,
+    end: 66,
+    text: "the birds said can you help me figure that one out",
+  },
+  {
+    start: 66,
+    end: 66,
+    text: "but the spider did not say anything i can see those places when i fly",
+  },
+  {
+    start: 66,
+    end: 67,
+    text: "is the sky the right answer false said the spider",
+  },
+  {
+    start: 67,
+    end: 67,
+    text: "the answer is hawaii now you must find some bugs for me",
+  },
+  {
+    start: 67,
+    end: 67,
+    text: "the spider climbed on the bird's back they flew and ate bugs together",
+  },
+  {
+    start: 67,
+    end: 67,
+    text: "they took a tour of the forest then the bird took the spider home",
+  },
+  {
+    start: 67,
+    end: 67,
+    text: "from that day on they were friends and they never tried to eat each other",
+  },
+  {
+    start: 67,
+    end: 67,
+    text: "again [Music] the party",
+  },
+  {
+    start: 67,
+    end: 67,
+    text: "cody's family moved to a new house his dad got a new job as a professor",
+  },
+  {
+    start: 67,
+    end: 67,
+    text: "cody liked his new town but he missed his grandparents for his birthday cody wanted to have a",
+  },
+  {
+    start: 67,
+    end: 68,
+    text: "party his dad said yes we could even have a band play",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "on the day of the party cody woke up and rushed to get ready he started to check his list of things",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "to do he was so excited but then he noticed something terrible",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "there was snow on the ground and lots of it dad he said",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "how can the band play their instruments outside dad said",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "we'll move the stage inside it barely fit within the garage because",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "there were some boxes and garbage there but when they finished they got a call",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "from the band they did not want to come in the storm dad said",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "let's get someone to perform magic but no one would come because of the",
+  },
+  {
+    start: 68,
+    end: 68,
+    text: "snow finally dad said cody there's too much snow",
+  },
+  {
+    start: 68,
+    end: 69,
+    text: "we need to cancel the party yes sir cody said sadly",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "it's going to be a boring birthday he predicted cody wanted to share his birthday with",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "someone he wanted to be at his old home he wanted to see his grandparents",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "but then something got his attention he noticed a car in the driveway",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "his grandparents owned a car like that cody was right",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "his grandparents came for his birthday happy birthday cody",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "we're sorry we are late but there was so much snow it made us go off schedule",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "we tried to leave a message to tell you cody told them what happened",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "i'm sorry said grandpa i was sad cody said",
+  },
+  {
+    start: 69,
+    end: 69,
+    text: "but i'm not anymore i'm so happy to see you dad brought out something special for",
+  },
+  {
+    start: 69,
+    end: 70,
+    text: "cody's birthday it was his favorite a sunday with whipped cream on top",
+  },
+  {
+    start: 70,
+    end: 70,
+    text: "then cody told his grandparents about the new town it was his best birthday ever",
+  },
+  {
+    start: 70,
+    end: 70,
+    text: "[Music] the demon's bridge",
+  },
+  {
+    start: 70,
+    end: 70,
+    text: "a young woman's cow had crossed the river in the morning when the water",
+  },
+  {
+    start: 70,
+    end: 70,
+    text: "level was moderate but when the woman returned with her dog",
+  },
+  {
+    start: 70,
+    end: 70,
+    text: "to get the cow she was overwhelmed by how high the water had risen",
+  },
+  {
+    start: 70,
+    end: 70,
+    text: "even if she crossed she still couldn't lead her cow back through the river",
+  },
+  {
+    start: 70,
+    end: 70,
+    text: "what am i going to do she wondered suddenly",
+  },
+  {
+    start: 70,
+    end: 70,
+    text: "a man appeared across the river a fragile young lady like you shouldn't",
+  },
+  {
+    start: 70,
+    end: 71,
+    text: "have to work so hard to get across a river he said i'll build you a bridge",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "the man was not the usual kind of person she met the young woman's perception of him",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "was that he was a sociable person he was talkative yet something was",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "strange about him but her innocence allowed her to trust the man",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "i don't want to be a burden to you sir the woman replied",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "don't worry he told her as he began crafting a bridge",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "he merged the pieces of the bridge together with amazing speed soon it was",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "finished oh but how can i give you money for your",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "work let's compromise i am sure that we can find a fair",
+  },
+  {
+    start: 71,
+    end: 71,
+    text: "solution what do you think the woman asked",
+  },
+  {
+    start: 71,
+    end: 72,
+    text: "the only payment i need is the first living thing that crosses the bridge",
+  },
+  {
+    start: 72,
+    end: 72,
+    text: "the man replied she thought this deal sounds strange",
+  },
+  {
+    start: 72,
+    end: 72,
+    text: "maybe he's actually a river demon she shivered because she realized that",
+  },
+  {
+    start: 72,
+    end: 72,
+    text: "he had taken advantage of her and settled the deal somehow",
+  },
+  {
+    start: 72,
+    end: 72,
+    text: "but she had a plan of her own she pulled a piece of bread from her",
+  },
+  {
+    start: 72,
+    end: 72,
+    text: "pocket and threw it across the bridge her dog ran after it",
+  },
+  {
+    start: 72,
+    end: 72,
+    text: "the dog is the first living thing across the bridge she said to the man",
+  },
+  {
+    start: 72,
+    end: 72,
+    text: "the man was angry he suddenly changed into a half human",
+  },
+  {
+    start: 72,
+    end: 72,
+    text: "and half fish what's the matter with you he shouted",
+  },
+  {
+    start: 72,
+    end: 73,
+    text: "you tricked me i have no use for your dog he screamed and dived into the river",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "the woman sped across the bridge to the other side and had a happy meeting with",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "her dog and cow [Music]",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "cats and secrets in english there is a common idiom",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "let the cat out of the bag it means to tell a secret",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "but where did this idiom start it came from a part of england",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "long ago people there went from town to town to sell things like vegetables",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "clothes and pigs they had strong beliefs about honesty",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "they didn't like lying one day a man went to the town's center",
+  },
+  {
+    start: 73,
+    end: 73,
+    text: "to sell things i have a baby pig for sale it won't cost",
+  },
+  {
+    start: 73,
+    end: 74,
+    text: "much he said he held the animal above his head his style was different from honest",
+  },
+  {
+    start: 74,
+    end: 74,
+    text: "people's style he was a master of tricking people and lying",
+  },
+  {
+    start: 74,
+    end: 74,
+    text: "a woman named beth looked at his pig he offered her the pig for one gold coin",
+  },
+  {
+    start: 74,
+    end: 74,
+    text: "that was a very small amount beth gave him the coin he put it in his pocket",
+  },
+  {
+    start: 74,
+    end: 74,
+    text: "he walked ahead of beth to get the pig he gave her a closed bag and said",
+  },
+  {
+    start: 74,
+    end: 74,
+    text: "here's your pig he then left very quickly beth looked at the bag",
+  },
+  {
+    start: 74,
+    end: 74,
+    text: "it was moving she opened it to let the pig out a cat was inside",
+  },
+  {
+    start: 74,
+    end: 74,
+    text: "he tricked me that isn't proper she said later the man returned to trick more",
+  },
+  {
+    start: 74,
+    end: 74,
+    text: "people beth saw him and the memory of the cat came back",
+  },
+  {
+    start: 74,
+    end: 75,
+    text: "she told her friends they stopped him but no one knew what to do next",
+  },
+  {
+    start: 75,
+    end: 75,
+    text: "someone said we need an independent and fair person to decide that",
+  },
+  {
+    start: 75,
+    end: 75,
+    text: "they went to the judge beth told him about the cat in the bag",
+  },
+  {
+    start: 75,
+    end: 75,
+    text: "the judge asked is there evidence can you demonstrate how he did it",
+  },
+  {
+    start: 75,
+    end: 75,
+    text: "look in his bag said beth she opened it and let a cat out of the",
+  },
+  {
+    start: 75,
+    end: 75,
+    text: "bag they learned the man's secret and he went to jail",
+  },
+  {
+    start: 75,
+    end: 85,
+    text: "that's how the idiom let the cat out of the bag came to mean to tell a secret",
   },
 ];
