@@ -2,6 +2,9 @@ const audio = document.getElementById("audio");
 const lyrics = document.getElementById("lyrics");
 const playButton = document.getElementById("play-button");
 const pauseButton = document.getElementById("pause-button");
+const slowDownButton = document.getElementById("slow-down-button");
+const speedUpButton = document.getElementById("speed-up-button");
+const resetSpeedButton = document.getElementById("reset-speed-button");
 
 let context;
 let source;
@@ -43,6 +46,18 @@ playButton.addEventListener("click", function () {
 
 pauseButton.addEventListener("click", function () {
   audio.pause();
+});
+
+slowDownButton.addEventListener("click", function () {
+  audio.playbackRate -= 0.1;
+});
+
+speedUpButton.addEventListener("click", function () {
+  audio.playbackRate += 0.1;
+});
+
+resetSpeedButton.addEventListener("click", function () {
+  audio.playbackRate = audio.defaultPlaybackRate;
 });
 
 const script = [
