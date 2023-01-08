@@ -1,5 +1,8 @@
 const audio = document.getElementById("audio");
 const lyrics = document.getElementById("lyrics");
+const playButton = document.getElementById("play-button");
+const pauseButton = document.getElementById("pause-button");
+
 let context;
 let source;
 let analyser;
@@ -33,6 +36,14 @@ function updateLyrics() {
 }
 
 document.addEventListener("click", startAudio);
+
+playButton.addEventListener("click", function () {
+  audio.play();
+});
+
+pauseButton.addEventListener("click", function () {
+  audio.pause();
+});
 
 const script = [
   {
