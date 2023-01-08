@@ -4,7 +4,6 @@
 
 #captions {
   font-family: monospace;
-  white-space: pre;
 }
 
 .highlight {
@@ -44,4 +43,11 @@ button:hover {
 
 button:active {
   transform: scale(0.9);
+}
+
+#lyrics {
+  width: 1000px;
+  white-space: wrap;
+  font-size: 2em;
+  word-wrap: break-word;
 }

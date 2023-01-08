@@ -5,6 +5,7 @@ const pauseButton = document.getElementById("pause-button");
 const slowDownButton = document.getElementById("slow-down-button");
 const speedUpButton = document.getElementById("speed-up-button");
 const resetSpeedButton = document.getElementById("reset-speed-button");
+const translateButton = document.getElementById("translate-button");
 
 let context;
 let source;
@@ -38,6 +39,24 @@ function updateLyrics() {
   requestAnimationFrame(updateLyrics);
 }
 
+function translate(str, lang1, lang2) {
+  const escapedStr = encodeURI(str);
+  const lastPart = `${lang1}&tl=${lang2}&dt=t&dt=t&q=${escapedStr}`;
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${lastPart}`;
+
+  fetch(url)
+    .then((response) => response.text())
+    .then((text) => {
+      const startIndex = text.indexOf('"') + 1;
+      const endIndex = text.indexOf('"', startIndex);
+      const result = text.substring(startIndex, endIndex);
+      document.querySelector("#lyricsTranslate").textContent = result;
+    })
+    .catch((error) => {
+      console.error(error);
+    });
+}
+
 document.addEventListener("click", startAudio);
 
 playButton.addEventListener("click", function () {
@@ -58,6 +77,10 @@ speedUpButton.addEventListener("click", function () {
 
 resetSpeedButton.addEventListener("click", function () {
   audio.playbackRate = audio.defaultPlaybackRate;
+});
+
+translateButton.addEventListener("click", function () {
+  translate(lyrics.textContent, "en", "vi");
 });
 
 const script = [
