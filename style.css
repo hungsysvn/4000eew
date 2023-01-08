@@ -1,0 +1,12 @@
+#audio-player {
+  margin-bottom: 20px;
+}
+
+#captions {
+  font-family: monospace;
+  white-space: pre;
+}
+
+.highlight {
+  color: red;
+}
