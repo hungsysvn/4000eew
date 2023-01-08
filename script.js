@@ -1,5 +1,6 @@
 const audio = document.getElementById("audio");
 const lyrics = document.getElementById("lyrics");
+const lyricsTranslate = document.getElementById("lyricsTranslate");
 const playButton = document.getElementById("play-button");
 const pauseButton = document.getElementById("pause-button");
 const slowDownButton = document.getElementById("slow-down-button");
@@ -34,6 +35,7 @@ function updateLyrics() {
     //lyrics.classList.add("highlight");
   } else {
     lyrics.textContent = "";
+
     //lyrics.classList.remove("highlight");
   }
   requestAnimationFrame(updateLyrics);
@@ -61,6 +63,7 @@ document.addEventListener("click", startAudio);
 
 playButton.addEventListener("click", function () {
   audio.play();
+  document.querySelector("#lyricsTranslate").textContent = "";
 });
 
 pauseButton.addEventListener("click", function () {
